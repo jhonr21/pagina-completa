@@ -1,0 +1,16 @@
+{
+  "en": {
+    "welcome": "Welcome to My Pokémon Page",
+    "explore": "Explore the Pokémon world and discover interesting information.",
+    "learnMore": "Learn more about your favorite Pokémon!",
+    "contact": "Contact Us",
+    "about": "About Us"
+  },
+  "es": {
+    "welcome": "Bienvenido a Mi Página de Pokémon",
+    "explore": "Explora el mundo Pokémon y descubre información interesante.",
+    "learnMore": "¡Aprende más sobre tus Pokémon favoritos!",
+    "contact": "Contáctanos",
+    "about": "Sobre Nosotros"
+  }
+}
